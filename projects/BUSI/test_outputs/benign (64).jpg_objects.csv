@@ -1,0 +1,2 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+benign (64).jpg,benign,0.99,29,32,487,407

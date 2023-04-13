@@ -1,0 +1,2 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+benign (108).jpg,benign,0.85,369,84,502,188

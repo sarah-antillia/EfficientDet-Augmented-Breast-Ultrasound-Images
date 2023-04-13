@@ -1,0 +1,2 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+benign (123).jpg,benign,0.96,224,92,409,212

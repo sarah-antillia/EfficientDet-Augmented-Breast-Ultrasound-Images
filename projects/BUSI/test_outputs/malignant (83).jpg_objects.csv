@@ -1,0 +1,2 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+malignant (83).jpg,benign,0.95,188,156,367,282

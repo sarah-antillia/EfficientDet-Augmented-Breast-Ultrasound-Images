@@ -1,0 +1,2 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+malignant (169).jpg,malignant,0.87,379,205,437,260

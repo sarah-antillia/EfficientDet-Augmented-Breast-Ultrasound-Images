@@ -1,0 +1,10 @@
+item {
+  display_name: 'benign'
+  id: 1
+  name: 'benign'
+}
+item {
+  display_name: 'malignant'
+  id: 2
+  name: 'malignant'
+}

@@ -1,0 +1,2 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+benign (334).jpg,malignant,0.66,198,144,317,264

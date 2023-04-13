@@ -1,0 +1,3 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+malignant (138).jpg,malignant,0.5,104,110,435,389
+malignant (138).jpg,malignant,0.4,128,112,379,237
