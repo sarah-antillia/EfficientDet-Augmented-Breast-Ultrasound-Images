@@ -100,7 +100,7 @@ Please run the following command to install python packages for this project.<br
 <br>
 <h3>2.3 Download TFRecord Dataset</h3>
  If you would like to retrain the BUSI EfficientDet model,
- please download TFRecord dataset (TFRecord-BUSI-20230414.zip) from <a href="https://drive.google.com/file/d/1XaqPnH90ZQ9_FuwaUZSvwcUPWS7BdRvE/view?usp=share_link">here</a>.<br>
+ please download TFRecord dataset (TFRecord-BUSI-20230414.zip) from <a href="https://drive.google.com/file/d/1XaqPnH90ZQ9_FuwaUZSvwcUPWS7BdRvE/view?usp=share_link">here</a>
 , expand it in your working folder, and move <b>train</b> and <b>valid</b> folders to <b>,/projects/BUSI</b>.<br>
 
 <pre>
