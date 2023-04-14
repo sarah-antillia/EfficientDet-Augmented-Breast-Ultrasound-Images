@@ -170,7 +170,11 @@ This will generate annotated images with bboxes and labels from the tfrecord, an
 <img src="./asset/tfrecord_inspector_objects_count.png" width="720" height="auto">
 <br>
 This bar graph shows that the number of the objects contained in train.tfrecord,
-from which you can see that it contains 5772 images in total. 
+from which you can see that it contains 5772 images in total. The number of images in this train.tfrecord
+is more than 10 times of the train.tfrecord used in the previous experiment 
+<a href="https://github.com/sarah-antillia/EfficientDet-Breast-Cancer">EfficientDet-Breast-Cancer</a>.
+<br>
+
 <br>
 <br>
 <h3>4. Download the pretrained-model efficientdet-d0</h3>
@@ -281,7 +285,7 @@ python ../../ModelTrainer.py ^
 2: 'malignant'
 </pre>
 This train-eval process has been stopped at epoch 59 by EarliyStopping callback.
-From the picture below, you can see that the mAP score in the eval mode has reached more higher value than
+From the picture below, you can see that the mAP score in the eval mode has reached more higher value than that of 
  the previous experiment 
 <a href="https://github.com/sarah-antillia/EfficientDet-Breast-Cancer">EfficientDet-Breast-Cancer</a>.
 <br>
