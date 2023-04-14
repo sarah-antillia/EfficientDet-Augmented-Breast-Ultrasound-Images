@@ -502,3 +502,12 @@ Atisham Khan and Silky Pareyani<br>
 https://www.jetir.org/papers/JETIR2303813.pdf
 </pre>
 
+<b>5. Discrimination of Breast Cancer Based on Ultrasound Images and Convolutional Neural Network
+</b><br>
+Rui Du,Yanwei Chen,Tao Li, Liang Shi,Zhengdong Fei,and Yuefeng Li
+<br>
+<pre>
+https://www.hindawi.com/journals/jo/2022/7733583/
+</pre>
+
+
