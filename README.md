@@ -459,7 +459,7 @@ The 3_inference.bat computes also the COCO metrics(f, map, mar) to the <b>test</
 <a href="./projects/BUSI/test_outputs/prediction_f_map_mar.csv">prediction_f_map_mar.csv</a>
 <br>
 You can see that the <b>mAP</b> score in this case has been improved slightly from that of 
-our previous experiment<a href="https://github.com/sarah-antillia/EfficientDet-Breast-Cancer">EfficientDet-Breast-Cancer</a>.
+our previous experiment <a href="https://github.com/sarah-antillia/EfficientDet-Breast-Cancer">EfficientDet-Breast-Cancer</a>.
 <br>
 <br>
 <b><a href="./projects/BUSI/eval/coco_metrics.csv">COCO metrics at epoch 59</a></b><br>
