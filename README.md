@@ -4,7 +4,7 @@ EfficientDet-Augmented-Breast-Ultrasound-Images (Updated: 2023/04/14)
 This is an experimental project to detect <b>Breast Cancer</b> based on Augmented
 Breast Ultrasound Images Dataset (BUSI), by using Google Brain AutoML
 <a href="https://github.com/google/automl/tree/master/efficientdet"> EfficientDet.</a><br>
-The original dataset used here has been take from the followin web site:<br>
+The original dataset used here has been take from the following web site:<br>
 <b>Breast Ultrasound Images Dataset</b><br>
 Breast ultrasound images for classification, detection & segmentation<br>
 
@@ -20,11 +20,11 @@ DOI: 10.1016/j.dib.2019.104863.
 </pre>
 <p>
 In a project <a href="https://github.com/sarah-antillia/EfficientDet-Breast-Cancer">EfficientDet-Breast-Cancer</a>, 
-we have already tried to detect Breast Cancer by EfficientDet model trained by original BUSI Dataset. 
-However, the cancer detection accuracy by that model is very low.
+we have already tried to detect Breast Cancer by EfficientDet model trained by the original BUSI Dataset. 
+However, the detection accuracy by that model was very low.
 </p>
 This is another experiment to improve the detection accuracy of Breast Cancer by new EfficientDet model trained 
-by <b>Augmented BUSI Dataset</b>.<br>
+by our <b>Augmented BUSI Dataset</b>.<br>
 
 We have created <b>YOLO</b> and <b>TFRecord Augmented BUSI Dataset</b> from the original <b>Breast Ultrasound Images Dataset</b>, by using the following tools.<br>
 
@@ -99,9 +99,9 @@ Please run the following command to install python packages for this project.<br
 
 <br>
 <h3>2.3 Download TFRecord Dataset</h3>
- If you would like to retrain the BUSI EfficientDet model,
+ If you would like to try to retrain the BUSI EfficientDet model,
  please download TFRecord dataset (TFRecord-BUSI-20230414.zip) from <a href="https://drive.google.com/file/d/1XaqPnH90ZQ9_FuwaUZSvwcUPWS7BdRvE/view?usp=share_link">here</a>
-, expand it in your working folder, and move <b>train</b> and <b>valid</b> folders to <b>,/projects/BUSI</b>.<br>
+, expand it in your working folder, and move <b>train</b> and <b>valid</b> folders to <b>./projects/BUSI</b>.<br>
 
 <pre>
 EfficientDet-Augmented-Breast-Ultrasound-Images
