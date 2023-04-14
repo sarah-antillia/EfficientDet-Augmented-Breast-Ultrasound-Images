@@ -21,7 +21,7 @@ DOI: 10.1016/j.dib.2019.104863.
 <p>
 In a project <a href="https://github.com/sarah-antillia/EfficientDet-Breast-Cancer">EfficientDet-Breast-Cancer</a>, 
 we have already tried to detect Breast Cancer by EfficientDet model trained by original BUSI Dataset. 
-However, the cancer detection accuracy of of that model was very low.
+However, the cancer detection accuracy by that model is very low.
 </p>
 This is another experiment to improve the detection accuracy of Breast Cancer by new EfficientDet model trained 
 by <b>Augmented BUSI Dataset</b>.<br>
