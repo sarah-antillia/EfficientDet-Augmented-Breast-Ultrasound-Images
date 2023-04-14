@@ -455,9 +455,11 @@ Note that <b>test</b> dataset and <b>ground_truth_json</b> have just been create
 
 
 <h3>7.3. COCO metrics of inference result</h3>
-The 3_inference.bat computes also the COCO metrics(f, map, mar) to the <b>realistic_test_dataset</b> as shown below:<br>
+The 3_inference.bat computes also the COCO metrics(f, map, mar) to the <b>test</b> dataset as shown below:<br>
 <a href="./projects/BUSI/test_outputs/prediction_f_map_mar.csv">prediction_f_map_mar.csv</a>
-
+<br>
+You can see that the <b>mAP</b> score in this case has been improved slightly from that of 
+our previous experiment<a href="https://github.com/sarah-antillia/EfficientDet-Breast-Cancer">EfficientDet-Breast-Cancer</a>.
 <br>
 <br>
 <b><a href="./projects/BUSI/eval/coco_metrics.csv">COCO metrics at epoch 59</a></b><br>
